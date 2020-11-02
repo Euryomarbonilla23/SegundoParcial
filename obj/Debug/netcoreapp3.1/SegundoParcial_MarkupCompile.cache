@@ -1,20 +1,20 @@
 ﻿SegundoParcial
-1.0.0.0
+
 
 winexe
 C#
 .cs
-c:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\
+C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\
 SegundoParcial
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-c:\Users\franc\Desktop\SegundoParcial\App.xaml
-1219584333
+C:\Users\franc\Desktop\SegundoParcial\App.xaml
+31242416439
 
-5424266544
-21794510294
-MainWindow.xaml;
+61427044534
+2162055081937
+MainWindow.xaml;UI\Consultas\cProyectos.xaml;UI\Registros\rProyecto.xaml;
 
-True
+False
 

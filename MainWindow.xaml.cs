@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using SegundoPacial.UI.Consultas;
+using SegundoPacial.UI.Registros;
 
 namespace SegundoParcial
 {
@@ -23,6 +25,18 @@ namespace SegundoParcial
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void rProyectos_Click(object sender, RoutedEventArgs e)
+        {
+            rProyectos rp = new rProyectos();
+            rp.ShowDialog();
+        }
+
+        private void cProyectos_Click(object sender, RoutedEventArgs e)
+        {
+            cProyectos rp = new cProyectos();
+            rp.ShowDialog();
         }
     }
 }
