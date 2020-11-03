@@ -9,7 +9,7 @@ using System.Text;
 
 namespace SegundoParcial.BLL
 {
-    class ProyectosBLL
+    public class ProyectosBLL
     {
         public static bool Guardar(Proyectos proyectos)
         {

@@ -8,7 +8,7 @@ using System.Text;
 
 namespace SegundoParcial.BLL
 {
-    class TiposBLL
+    public class TiposBLL
     {
         public static List<Tipos> GetList(Expression<Func<Tipos, bool>> criterio)
         {

@@ -1,7 +1,6 @@
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.csprojAssemblyReference.cache
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\UI\Consultas\cProyectos.g.cs
-C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\UI\Registros\rProyecto.g.cs
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial_MarkupCompile.cache
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial_MarkupCompile.lref
@@ -53,7 +52,6 @@ C:\Users\franc\Desktop\SegundoParcial\bin\Debug\netcoreapp3.1\runtimes\win-x64\n
 C:\Users\franc\Desktop\SegundoParcial\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\MainWindow.baml
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\UI\Consultas\cProyectos.baml
-C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\UI\Registros\rProyecto.baml
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.g.resources
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.AssemblyInfoInputs.cache
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.AssemblyInfo.cs
@@ -62,3 +60,5 @@ C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.csp
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.dll
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.pdb
 C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\SegundoParcial.genruntimeconfig.cache
+C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\UI\Registros\rProyectos.g.cs
+C:\Users\franc\Desktop\SegundoParcial\obj\Debug\netcoreapp3.1\UI\Registros\rProyectos.baml
