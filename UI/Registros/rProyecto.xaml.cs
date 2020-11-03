@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SegundoPacial.UI.Registros
+namespace SegundoParcial.UI.Registros
 {
     /// <summary>
     /// Interaction logic for registroProyectos.xaml

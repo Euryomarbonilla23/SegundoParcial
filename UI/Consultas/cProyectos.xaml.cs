@@ -11,7 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace SegundoPacial.UI.Consultas
+namespace SegundoParcial.UI.Consultas
 {
     /// <summary>
     /// Interaction logic for Consulta.xaml

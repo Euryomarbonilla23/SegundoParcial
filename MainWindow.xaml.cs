@@ -12,8 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using SegundoPacial.UI.Consultas;
-using SegundoPacial.UI.Registros;
+using SegundoParcial.UI.Consultas;
+using SegundoParcial.UI.Registros;
 
 namespace SegundoParcial
 {
